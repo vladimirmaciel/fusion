@@ -1,0 +1,5 @@
+postgresql://postgres:qLXFcqIXm5A5fgasIFm0@containers-us-west-156.railway.app:5968/railway
+
+# SECRET_KEY = '6c84000n*5423ov#u9h6f@&+%1ph4rxi(t1!83z+1u@(%2hh!6'
+
+token_github = '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'
